@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\strug\source\repos\Emu_2.0\Source.cpp(5): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\strug\source\repos\Emu_2.0\Source.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Emu_2.0.vcxproj -> C:\Users\strug\source\repos\Emu_2.0\Debug\Emu_2.0.exe
